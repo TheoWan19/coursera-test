@@ -1,18 +1,28 @@
-body {
-    padding-top: 20%;
-    padding-bottom: 20%;
-    background-color: #58B003;
-    text-align: center;
-}
-
-ul {
-    list-style: none;
-    background-color: azure;
-}
-
-h1 {
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: medium;
-    box-shadow: inset;
-}
+    body {
+        padding-top: 20%;
+        padding-bottom: 20%;
+        background-color: #58B003;
+        text-align: center;
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    ul {
+        background-color: azure;
+    }
+    
+    h1 {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: medium;
+        box-shadow: inset;
+    }
+    
+    .header {
+        width: 30px;
+        height: 50%;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
