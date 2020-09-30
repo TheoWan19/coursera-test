@@ -1,6 +1,7 @@
     body {
-        padding-top: 10%;
-        padding-bottom: 20%;
+        margin: 0;
+        padding-top: 10p;
+        padding-bottom: 20px;
         background-color: #58B003;
         text-align: center;
     }
