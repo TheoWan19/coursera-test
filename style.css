@@ -1,0 +1,18 @@
+body {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: #58B003;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    background-color: azure;
+}
+
+h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    box-shadow: inset;
+}
